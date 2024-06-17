@@ -11,6 +11,7 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | Dia  | Tema       | Descrição                           |
 | :---------------- | :--------- | :---------------------------------- |
 | `01` | `Introdução ao JavaScript: Variaveis` | Let, const |
+| `02` | `Primeiros passos: Tipos primitivos` | String, Number, boolean, Null, undefined |
 
 
 
