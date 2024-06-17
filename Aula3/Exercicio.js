@@ -1,15 +1,22 @@
-/*
-willian rodrigues tem 19 anos, pesa 51 kg tem 1.65 de altura e seu indicie de massa corporal é de 18.73278236914601
-*/
+// Função para as operações
 
-const nome = 'Willian';
-const sobrenome = 'rodrigues';
-const idade = 19;
-const peso = 51;
-const altura = 1.65;
-let indiceMassaCorporal = peso / (altura * altura)
+function operacoesAritmeticas(numero1, numero2) {
+  const soma = numero1 + numero2;             // Variavel para somar dois números.
+  const multiplicacao = numero1 * numero2;   // Variavel para multiplicar dois números.
+  const subtracao = numero1 - numero2;      // Variavel para subtrair dois números.
+  const divisao = numero1 / numero2;       // variavel para dividir dois números.
+  const potenciacao = numero1 ** numero2; // Variavel para potenciação de dois números.
 
+  return { // Retorna os valores criados a cima.
+    soma: soma,
+    subtracao: subtracao,
+    multiplicacao: multiplicacao,
+    divisao: divisao,
+    potenciacao: potenciacao,
+  };
+}
 
-// template strings
-
-console.log(`${nome} ${sobrenome} tem ${idade} anos, pesa ${peso} kg tem ${altura} de altura e seu IMC é de ${indiceMassaCorporal}`)
+const numero1 = 10; // Variavel com valor Inteiro.
+const numero2 = 5; // Variavel com valor Inteiro.
+const resultados = operacoesAritmeticas(numero1, numero2); // Variavel que recebe o resultado da função criada.
+console.log(resultados); // Apresentação no Terminal.

@@ -1,16 +1,24 @@
-// String, number, undefined, null, boolean, symbol
+/*
+    +	Adição
+    -	Subtração
+    *	Multiplicação
+    /	Divisão
+    %	Modulo
+    **	Potenciação
+*/
 
-const nome = "Luiz"; // string.
-const nome1 = `Luiz`; // string.
-const numero1 = 10; // number.
-const numero2 = 10.52; // number.
-let nomeAluno; // undefined = não aponta para local nenhum da memória.
-let sobrenomeAluno = null; // Nulo -> não aponta para local nenhum da memória.
-const aprovado = false; // Boolean = True, false (lógico).
+/*
+Ordem de precedência
 
-let a = 2;
-const b = a;
-console.log(a, b); // 2, 2.
+( )		
+**		
+*	/	%
++	-	
 
-a = 3;
-console.log(a, b); // 3, 2.
+*/
+
+let numero1 = 32
+let numero2 = 12
+
+const resultado = numero1 * numero2
+console.log(`O resultado da soma foi ${resultado}`)
