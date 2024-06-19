@@ -12,7 +12,8 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | :---------------- | :--------- | :---------------------------------- |
 | `01` | `Introdução ao JavaScript: Variaveis` | Let, const |
 | `02` | `Primeiros passos: Tipos primitivos` | String, Number, boolean, Null, undefined |
-| `03` | `Operadores Aritmeticos` | Soma, Subtração, Multiplicação, divisão, potência |
+| `03` | `Operadores: Aritmeticos` | Soma, Subtração, Multiplicação, divisão, potência |
+| `04` | `Operadores: Relacionais / lógicos ` | ==, <= , >= , < , > , != , && , ! , |
 
 
 
