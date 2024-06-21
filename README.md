@@ -15,7 +15,7 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | `03` | `Operadores: Aritmeticos` | Soma, Subtração, Multiplicação, divisão, potência |
 | `04` | `Operadores: Relacionais / lógicos ` | ==, <= , >= , < , > , != , && , ! , |
 | `05` | `Condicionais: simples, compostas, aninhada ` | if, else, else if |
-
+| `06` | `Condicionais: simples, compostas, aninhada ` | Revisão |
 
 
 
