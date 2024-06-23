@@ -17,6 +17,7 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | `05` | `Condicionais: simples, compostas, aninhada ` | if, else, else if |
 | `06` | `Condicionais: simples, compostas, aninhada ` | Revisão |
 | `07` | `Exercicios ` | Operadores, condições, variaveis |
+| `08` | `Funções ` | function |
 
 
 ## <p>Quer participar? Venha conosco!!</p>
