@@ -19,6 +19,7 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | `07` | `Exercicios ` | Operadores, condições, variaveis |
 | `08` | `Funções ` | function, {} |
 | `09` | `Funções: exercicios ` | caixaAlta, Boasvindas, ParouImpar |
+| `10` | `Funções: exercicios ` | numeroPrimo, Adiçãoporcento, checkpalindrome |
 
 ## <p>Quer participar? Venha conosco!!</p>
 
