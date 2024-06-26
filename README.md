@@ -20,6 +20,7 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | `08` | `Funções ` | function, {} |
 | `09` | `Funções: exercicios ` | caixaAlta, Boasvindas, ParouImpar |
 | `10` | `Funções: exercicios ` | numeroPrimo, Adiçãoporcento, checkpalindrome |
+| `11` | `Estrutura de Repetições: ` | while, do while, for |
 
 ## <p>Quer participar? Venha conosco!!</p>
 
