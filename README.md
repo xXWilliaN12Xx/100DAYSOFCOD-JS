@@ -21,6 +21,7 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | `09` | `Funções: exercicios ` | caixaAlta, Boasvindas, ParouImpar |
 | `10` | `Funções: exercicios ` | numeroPrimo, Adiçãoporcento, checkpalindrome |
 | `11` | `Estrutura de Repetições: ` | while, do while, for |
+| `12` | `Estrutura de Repetições: ` | function, if else, for |
 
 ## <p>Quer participar? Venha conosco!!</p>
 
