@@ -17,13 +17,14 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | `05` | `Condicionais: simples, compostas, aninhada ` | if, else, else if |
 | `06` | `Condicionais: simples, compostas, aninhada ` | Revisão |
 | `07` | `Exercicios ` | Operadores, condições, variaveis |
-| `08` | `Funções ` | function, {} |
+| `08` | `Funções ` | function, { } |
 | `09` | `Funções: exercicios ` | caixaAlta, Boasvindas, ParouImpar |
 | `10` | `Funções: exercicios ` | numeroPrimo, Adiçãoporcento, checkpalindrome |
 | `11` | `Estrutura de Repetições: ` | while, do while, for |
 | `12` | `Estrutura de Repetições: ` | function, if else, for |
 | `13` | `estrutura de controle de fluxo  ` | switch case |
 | `14` | `Estrutura de Repetições / Condicionais / Operadores relacionais e lógicos: ` |  do while, if, < , > , && |
+| `15` | `Arrays / Estrutura de Repetições / Condicionais / Operadores relacionais e lógicos:  ` | while, [ ] , for , if else , strings , numbers |
 
 ## <p>Quer participar? Venha conosco!!</p>
 
