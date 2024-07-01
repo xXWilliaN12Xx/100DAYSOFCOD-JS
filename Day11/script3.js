@@ -1,3 +1,3 @@
-for (let c = 1; c<=10; c++) {
-    console.log(`passo ${c}`)
+for (let c = 1; c <= 10; c++) {
+  console.log(`passo ${c}`);
 }
