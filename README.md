@@ -25,6 +25,7 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | `13` | `estrutura de controle de fluxo  ` | switch case |
 | `14` | `Estrutura de Repetições / Condicionais / Operadores relacionais e lógicos: ` |  do while, if, < , > , && |
 | `15` | `Arrays / Estrutura de Repetições / Condicionais / Operadores relacionais e lógicos:  ` | while, [ ] , for , if else , strings , numbers |
+| `16` | `Array / Função / condições  ` | if else, [ ] , strings , numbers |
 
 ## <p>Quer participar? Venha conosco!!</p>
 
