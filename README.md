@@ -28,6 +28,7 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | `16` | `Array / Função / condições  ` | if else, [ ] , strings , numbers |
 | `17` | `Array / Função / condições  ` | Revisão e exercicios |
 | `18` | `Array / Função / condições  ` | Revisão e exercicios |
+| `19` | `Operadores ternários  ` | ? , : |
 
 ## <p>Quer participar? Venha conosco!!</p>
 
