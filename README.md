@@ -21,7 +21,7 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | `09` | `Funções: exercicios ` | caixaAlta, Boasvindas, ParouImpar |
 | `10` | `Funções: exercicios ` | numeroPrimo, Adiçãoporcento, checkpalindrome |
 | `11` | `Estrutura de Repetições: ` | while, do while, for |
-| `12` | `Estrutura de Repetições: ` | function, if else, for |
+| `12` | `Estrutura de Repetições / condição / funções ` | function, if else, for |
 | `13` | `estrutura de controle de fluxo  ` | switch case |
 | `14` | `Estrutura de Repetições / Condicionais / Operadores relacionais e lógicos: ` |  do while, if, < , > , && |
 | `15` | `Arrays / Estrutura de Repetições / Condicionais / Operadores relacionais e lógicos:  ` | while, [ ] , for , if else , strings , numbers |
@@ -29,6 +29,7 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | `17` | `Array / Função / condições  ` | Revisão e exercicios |
 | `18` | `Array / Função / condições  ` | Revisão e exercicios |
 | `19` | `Operadores ternários  ` | ? , : |
+| `20` | `estrutura de controle de fluxo / funções / condições / Objeto Date  ` | Date , new Date , function , switch case , if else |
 
 ## <p>Quer participar? Venha conosco!!</p>
 
