@@ -31,7 +31,9 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | `19` | `Operadores ternários  ` | ? , : |
 | `20` | `estrutura de controle de fluxo / funções / condições / Objeto Date  ` | Date , new Date , function , switch case , if else |
 | `21` | `Variaveis ` | let , var |
-| `22` | `Desestruturação ` |  [Arrays]  |
+| `22` | `Atribuição via Desestruturação: ` |  [Arrays]  |
+| `23` | `Atribuição via Desestruturação ` |  Objetos  |
+| `24` | `Estrutura de Repetições: ` |  For  |
 
 ## <p>Quer participar? Venha conosco!!</p>
 
