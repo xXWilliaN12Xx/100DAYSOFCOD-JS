@@ -35,7 +35,7 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | `23` | `Atribuição via Desestruturação ` |  Objetos  |
 | `24` | `Estrutura de Repetições: ` |  For  |
 | `25` | `Projeto Node.js: ` | [Project Node](https://github.com/xXWilliaN12Xx/BACKEND) |
-| `24` | `Exercicio: ` | funções / condições / operadores relacionais e lógicos |
+| `26` | `Exercicio: ` | funções / condições / operadores relacionais e lógicos |
 
 ## <p>Quer participar? Venha conosco!!</p>
 
