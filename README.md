@@ -37,6 +37,7 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | `25` | `Projeto Node.js: ` | [Project Node](https://github.com/xXWilliaN12Xx/BACKEND) |
 | `26` | `Exercicio 1: ` | funções / condições / operadores relacionais e lógicos |
 | `27` | `Exercicio 2: ` | funções / condições / operadores relacionais e lógicos |
+| `28` | `Exercicio 3: ` | funções / condições / operadores relacionais e lógicos |
 
 ## <p>Quer participar? Venha conosco!!</p>
 
