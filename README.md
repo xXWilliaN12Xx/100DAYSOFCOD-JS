@@ -39,6 +39,8 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | `27` | `Exercicio 2: ` | funções / condições / operadores relacionais e lógicos |
 | `28` | `Exercicio 3: ` | funções / condições / operadores relacionais e lógicos |
 | `29` | `Estrutura de Repetições: ` |  For in / For of / ForEach  |
+| `30` | `Node.js / Modulos: ` |  HTTP / URL / Require / response |
+| `31` | `Node.js / Modulos: ` |  HTTP / URL / Require / response |
 
 ## <p>Quer participar? Venha conosco!!</p>
 
