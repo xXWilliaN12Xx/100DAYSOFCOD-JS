@@ -41,6 +41,8 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | `29` | `Estrutura de Repetições: ` |  For in / For of / ForEach  |
 | `30` | `Node.js / Modulos: ` |  HTTP / URL / Require / response |
 | `31` | `Node.js / Modulos: ` |  HTTP / URL / Require / response |
+| `32` | `Node.js / Modulos: ` |  HTTP / URL / Require / response |
+| `33` | `Node.js / Modulos / Pacote: ` |  HTTP / URL / Require / response / Upper-case |
 
 ## <p>Quer participar? Venha conosco!!</p>
 
