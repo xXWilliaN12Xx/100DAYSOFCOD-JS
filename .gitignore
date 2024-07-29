@@ -30,3 +30,18 @@ node_modules/upper-case/dist/index.spec.d.ts
 node_modules/upper-case/dist/index.spec.js
 node_modules/upper-case/dist/index.spec.js.map
 Day 30 - 60/Day35/demo_db_connection.js
+node_modules/aws-ssl-profiles/lib/index.d.ts
+node_modules/aws-ssl-profiles/lib/@types/profiles.d.ts
+node_modules/aws-ssl-profiles/lib/profiles/ca/defaults.d.ts
+node_modules/aws-ssl-profiles/lib/profiles/ca/proxies.d.ts
+node_modules/generate-function/.travis.yml
+node_modules/denque/index.d.ts
+node_modules/iconv-lite/lib/index.d.ts
+node_modules/long/index.d.ts
+node_modules/long/umd/index.d.ts
+node_modules/lru-cache/dist/cjs/index-cjs.d.ts
+node_modules/lru-cache/dist/cjs/index.d.ts
+node_modules/lru-cache/dist/mjs/index.d.ts
+node_modules/mysql2/index.d.ts
+node_modules/mysql2/promise.d.ts
+Day 30 - 60/Day35/demo_db_connection.js
