@@ -43,6 +43,9 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | `31` | `Node.js / Modulos: ` |  HTTP / URL / Require / response |
 | `32` | `Node.js / Modulos: ` |  HTTP / URL / Require / response |
 | `33` | `Node.js / Modulos / Pacote: ` |  HTTP / URL / Require / response / Upper-case |
+| `34` | `Node.js / Modulos: ` |  nodemailer |
+| `35` | `Node.js / Modulos: ` |  nodemailer |
+| `36` | `Node.js / Modulos / mysql: ` | CREATE / READ / UPDATE / DELETE |
 
 ## <p>Quer participar? Venha conosco!!</p>
 
