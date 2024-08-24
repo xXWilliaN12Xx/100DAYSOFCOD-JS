@@ -45,10 +45,14 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | `33` | `Node.js / Modulos / Pacote: ` |  HTTP / URL / Require / response / Upper-case |
 | `34` | `Node.js / Modulos: ` |  nodemailer |
 | `35` | `Node.js / Modulos: ` |  nodemailer |
-| `36` | `Node.js / Modulos / mysql: ` | CREATE / READ / UPDATE / DELETE |
-| `37` | `Node.js / Modulos / mysql: ` |  INSERT / ALTER / CREATE |
-| `38` | `Node.js / Modulos / mysql: ` |  Conect database mysql |
-| `39` | `Node.js / Modulos / mysql: ` |  ORDER BY / WHERE / ORDER BY DESC |
+| `36` | `Node.js / verbos / mysql: ` | CREATE / READ / UPDATE / DELETE |
+| `37` | `Node.js / mysql: ` |  INSERT / ALTER / CREATE |
+| `38` | `Node.js / mysql: ` |  Conect database mysql |
+| `39` | `Node.js / mysql: ` |  ORDER BY / WHERE / ORDER BY DESC |
+| `40` | `Node.js / javascript / CRUD: ` |  [Project Node](https://github.com/xXWilliaN12Xx/Gerenciamento-de-usuarios) |
+| `41` | `javascript / repetições: ` | while / for / arrow functions |
+| `42` | `javascript / node.js: ` | try / catch / throw |
+
 
 
 ## <p>Quer participar? Venha conosco!!</p>
