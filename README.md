@@ -46,6 +46,10 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | `34` | `Node.js / Modulos: ` |  nodemailer |
 | `35` | `Node.js / Modulos: ` |  nodemailer |
 | `36` | `Node.js / Modulos / mysql: ` | CREATE / READ / UPDATE / DELETE |
+| `37` | `Node.js / Modulos / mysql: ` |  INSERT / ALTER / CREATE |
+| `38` | `Node.js / Modulos / mysql: ` |  Conect database mysql |
+| `39` | `Node.js / Modulos / mysql: ` |  ORDER BY / WHERE / ORDER BY DESC |
+
 
 ## <p>Quer participar? Venha conosco!!</p>
 
