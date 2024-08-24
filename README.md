@@ -10,27 +10,27 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 
 | Dia  | Tema       | Descrição                           |
 | :---------------- | :--------- | :---------------------------------- |
-| `01` | `Introdução ao JavaScript: Variaveis` | Let, const |
-| `02` | `Primeiros passos: Tipos primitivos` | String, Number, boolean, Null, undefined |
-| `03` | `Operadores: Aritmeticos` | Soma, Subtração, Multiplicação, divisão, potência |
-| `04` | `Operadores: Relacionais / lógicos ` | ==, <= , >= , < , > , != , && , ! , |
-| `05` | `Condicionais: simples, compostas, aninhada ` | if, else, else if |
+| `01` | `Introdução ao JavaScript: Variaveis` | Let / const |
+| `02` | `Primeiros passos: Tipos primitivos` | String / Number / boolean / Null / undefined |
+| `03` | `Operadores: Aritmeticos` | Soma / Subtração / Multiplicação / divisão / potência |
+| `04` | `Operadores: Relacionais / lógicos ` | == / <= / >= / < / > / != / && / ! / |
+| `05` | `Condicionais: simples, compostas, aninhada ` | if/ else/ else if |
 | `06` | `Condicionais: simples, compostas, aninhada ` | Revisão |
-| `07` | `Exercicios: ` | Operadores, condições, variaveis |
-| `08` | `Funções: ` | function, { } |
-| `09` | `Funções: exercicios ` | caixaAlta, Boasvindas, ParouImpar |
-| `10` | `Funções: exercicios ` | numeroPrimo, Adiçãoporcento, checkpalindrome |
-| `11` | `Estrutura de Repetições: ` | while, do while, for |
-| `12` | `Estrutura de Repetições / condição / funções: ` | function, if else, for |
+| `07` | `Exercicios: ` | Operadores/ condições/ variaveis |
+| `08` | `Funções: ` | function / { } |
+| `09` | `Funções: exercicios ` | caixaAlta / Boasvindas / ParouImpar |
+| `10` | `Funções: exercicios ` | numeroPrimo / Adiçãoporcento / checkpalindrome |
+| `11` | `Estrutura de Repetições: ` | while / do while / for |
+| `12` | `Estrutura de Repetições / condição / funções: ` | function / if else / for |
 | `13` | `estrutura de controle de fluxo; ` | switch case |
-| `14` | `Estrutura de Repetições / Condicionais / Operadores relacionais e lógicos: ` |  do while, if, < , > , && |
-| `15` | `Arrays / Estrutura de Repetições / Condicionais / Operadores relacionais e lógicos: ` | while, [ ] , for , if else , strings , numbers |
-| `16` | `Array / Função / condições: ` | if else, [ ] , strings , numbers |
+| `14` | `Estrutura de Repetições / Condicionais / Operadores relacionais e lógicos: ` |  do while / if / < / > / && |
+| `15` | `Arrays / Estrutura de Repetições / Condicionais / Operadores relacionais e lógicos: ` | while / [ ] / for / if else / strings / numbers |
+| `16` | `Array / Função / condições: ` | if else / [ ] / strings / numbers |
 | `17` | `Array / Função / condições: ` | Revisão e exercicios |
 | `18` | `Array / Função / condições: ` | Revisão e exercicios |
-| `19` | `Operadores ternários: ` | ? , : |
-| `20` | `estrutura de controle de fluxo / funções / condições / Objeto Date: ` | Date , new Date , function , switch case , if else |
-| `21` | `Variaveis: ` | let , var |
+| `19` | `Operadores ternários: ` | ? / : |
+| `20` | `estrutura de controle de fluxo / funções / condições / Objeto Date: ` | Date / new Date / function q switch case / if else |
+| `21` | `Variaveis: ` | let / var |
 | `22` | `Atribuição via Desestruturação: ` |  [Arrays]  |
 | `23` | `Atribuição via Desestruturação: ` |  Objetos  |
 | `24` | `Estrutura de Repetições: ` |  For  |
