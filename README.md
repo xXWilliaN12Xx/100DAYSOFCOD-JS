@@ -61,7 +61,7 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | `40` | `Node.js / javascript / CRUD: ` |  [Project Node](https://github.com/xXWilliaN12Xx/Gerenciamento-de-usuarios) |
 | `41` | `javascript / repetições: ` | while / for / arrow functions |
 | `42` | `javascript / node.js: ` | try / catch / throw |
-
+| `43` | `javascript / node.js / mongoDB: ` | mongoose / API / autenticação / rotas |
 
 
 ## <p>Quer participar? Venha conosco!!</p>
