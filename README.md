@@ -68,6 +68,7 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | `47` | `javascript: ` | setInterval / clearInterval / setTimeout |
 | `48` | `javascript / node.js / MySQL: ` | DROP TABLE |
 | `49` | `javascript / node.js / MySQL: ` | LIMIT / JOIN / INNER JOIN / LEFT JOIN / RIGHT JOIN |
+| `50` | `javascript: ` | seconds / date |
 
 ## <p>Quer participar? Venha conosco!!</p>
 
