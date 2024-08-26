@@ -64,6 +64,7 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | `43` | `javascript / node.js / mongoDB: ` | mongoose / API / autenticação / rotas |
 | `44` | `javascript / node.js / MongoDB: ` | Users / mongoose / criptografia / bcryptjs / API |
 | `45` | `javascript / node.js / MongoDB: ` | GET / POST / DELETE |
+| `46` | `javascript / node.js / MySQL: ` | order by / delete |
 
 ## <p>Quer participar? Venha conosco!!</p>
 
