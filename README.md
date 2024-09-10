@@ -70,6 +70,7 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | `49` | `javascript / node.js / MySQL: ` | LIMIT / JOIN / INNER JOIN / LEFT JOIN / RIGHT JOIN |
 | `50` | `javascript: ` | seconds / date |
 | `51` | `javascript: ` | seconds / date / DOM / localStorage |
+| `52` | `javascript: ` | function / Arrays / condicionais |
 
 ## <p>Quer participar? Venha conosco!!</p>
 
