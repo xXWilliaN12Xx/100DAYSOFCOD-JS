@@ -75,6 +75,7 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | `54` | `javascript: ` | parâmetros / return |
 | `55` | `javascript: ` | escopo léxico / closures |
 | `56` | `javascript: ` | IIFE ( Immediately Invoked Function Expression) |
+| `57` | `javascript / Oracle / Node.js: ` | SELECT / Conection |
 
 ## <p>Quer participar? Venha conosco!!</p>
 
