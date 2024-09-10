@@ -71,6 +71,7 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | `50` | `javascript: ` | seconds / date |
 | `51` | `javascript: ` | seconds / date / DOM / localStorage |
 | `52` | `javascript: ` | function / Arrays / condicionais |
+| `53` | `javascript: ` | functions / arrow functions |
 
 ## <p>Quer participar? Venha conosco!!</p>
 
