@@ -69,6 +69,13 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | `48` | `javascript / node.js / MySQL: ` | DROP TABLE |
 | `49` | `javascript / node.js / MySQL: ` | LIMIT / JOIN / INNER JOIN / LEFT JOIN / RIGHT JOIN |
 | `50` | `javascript: ` | seconds / date |
+| `51` | `javascript: ` | seconds / date / DOM / localStorage |
+| `52` | `javascript: ` | function / Arrays / condicionais |
+| `53` | `javascript: ` | functions / arrow functions |
+| `54` | `javascript: ` | parâmetros / return |
+| `55` | `javascript: ` | escopo léxico / closures |
+| `56` | `javascript: ` | IIFE ( Immediately Invoked Function Expression) |
+| `57` | `javascript / Oracle / Node.js: ` | SELECT / Conection |
 
 ## <p>Quer participar? Venha conosco!!</p>
 
