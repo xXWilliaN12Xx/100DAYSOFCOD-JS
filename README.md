@@ -78,6 +78,7 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | `57` | `javascript / Oracle / Node.js: ` | SELECT / Conection |
 | `58` | `javascript: ` | Factory functions |
 | `59` | `javascript / Exercicio: ` | Factory functions / Calculator |
+| `60` | `javascript: ` | Constructor functions / this |
 
 ## <p>Quer participar? Venha conosco!!</p>
 
