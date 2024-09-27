@@ -81,6 +81,7 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | `60` | `javascript: ` | Constructor functions / this |
 | `61` | `javascript: ` | Funções recursivas |
 | `62` | `javascript: ` | Funções geradoras |
+| `63` | `javascript: ` | splice |
 
 ## <p>Quer participar? Venha conosco!!</p>
 
