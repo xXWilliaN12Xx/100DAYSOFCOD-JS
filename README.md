@@ -86,6 +86,7 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | `65` | `javascript: ` | filter / arrays / arrow functions |
 | `66` | `javascript: ` | map / arrays / arrow functions |
 | `67` | `javascript: ` | reduce / arrays / arrow functions |
+| `68` | `javascript: ` | filter / map / reduce |
 
 ## <p>Quer participar? Venha conosco!!</p>
 
