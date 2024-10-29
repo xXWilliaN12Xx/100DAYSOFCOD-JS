@@ -19,5 +19,5 @@ Cachorro.prototype.latir = function () {
 };
 
 const Rock = new Cachorro("Rock");
-Rock.som();
-Rock.latir();
+Rock.som(); // Cachorro faz um som.
+Rock.latir(); // Rock está latindo!
