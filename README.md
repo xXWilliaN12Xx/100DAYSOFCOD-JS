@@ -90,6 +90,7 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | `69` | `Iteração: ` | forEach |
 | `70` | `Propriedades e Métodos de Objeto: ` | getters / setters |
 | `71` | `Propriedades e Métodos de Objeto: ` | defineProperty / defineProperties |
+| `72` | `Propriedades e Métodos de Objeto: ` | prototypes / values / entries / assign / GetOwnPropertyDescriptor |
 
 ## <p>Quer participar? Venha conosco!!</p>
 
