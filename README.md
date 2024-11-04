@@ -65,30 +65,30 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | `44` | `javascript / node.js / MongoDB: ` | Users / mongoose / criptografia / bcryptjs / API |
 | `45` | `javascript / node.js / MongoDB: ` | GET / POST / DELETE |
 | `46` | `javascript / node.js / MySQL: ` | order by / delete |
-| `47` | `javascript: ` | setInterval / clearInterval / setTimeout |
-| `48` | `javascript / node.js / MySQL: ` | DROP TABLE |
+| `47` | `Controle de Tempo: ` | setInterval / clearInterval / setTimeout |
+| `48` | `Banco de Dados: ` | DROP TABLE |
 | `49` | `javascript / node.js / MySQL: ` | LIMIT / JOIN / INNER JOIN / LEFT JOIN / RIGHT JOIN |
-| `50` | `javascript: ` | seconds / date |
-| `51` | `javascript: ` | seconds / date / DOM / localStorage |
-| `52` | `javascript: ` | function / Arrays / condicionais |
-| `53` | `javascript: ` | functions / arrow functions |
-| `54` | `javascript: ` | parâmetros / return |
-| `55` | `javascript: ` | escopo léxico / closures |
-| `56` | `javascript: ` | IIFE ( Immediately Invoked Function Expression) |
-| `57` | `javascript / Oracle / Node.js: ` | SELECT / Conection |
-| `58` | `javascript: ` | Factory functions |
-| `59` | `javascript / Exercicio: ` | Factory functions / Calculator |
-| `60` | `javascript: ` | Constructor functions / this |
-| `61` | `javascript: ` | Funções recursivas |
-| `62` | `javascript: ` | Funções geradoras |
-| `63` | `javascript: ` | splice |
-| `64` | `javascript: ` | concatenação de arrays / spread / concat |
-| `65` | `javascript: ` | filter / arrays / arrow functions |
-| `66` | `javascript: ` | map / arrays / arrow functions |
-| `67` | `javascript: ` | reduce / arrays / arrow functions |
-| `68` | `javascript: ` | filter / map / reduce |
-| `69` | `javascript: ` | forEach |
-| `70` | `javascript: ` | getters / setters |
+| `50` | `Datas e Horários: ` | seconds / date |
+| `51` | `Web Storage e DOM: ` | seconds / date / DOM / localStorage |
+| `52` | `Estruturas Condicionais: ` | function / Arrays / condicionais |
+| `53` | `Funções: ` | functions / arrow functions |
+| `54` | `Parâmetros e Retorno: ` | parâmetros / return |
+| `55` | `Escopo e Closures: ` | escopo léxico / closures |
+| `56` | `Funções Imediatamente Invocadas: ` | IIFE ( Immediately Invoked Function Expression) |
+| `57` | `Conexão com Banco de Dados: ` | SELECT / Conection |
+| `58` | `Design Patterns: ` | Factory functions |
+| `59` | `Exercício Prático: ` | Factory functions / Calculator |
+| `60` | `Funções Construtoras: ` | Constructor functions / this |
+| `61` | `Funções Recursivas: ` | Funções recursivas |
+| `62` | `Funções Geradoras: ` | Funções geradoras |
+| `63` | `Manipulação de Arrays: ` | splice |
+| `64` | `Manipulação e Combinação de Arrays: ` | concatenação de arrays / spread / concat |
+| `65` | `Filtragem de Arrays: ` | filter / arrays / arrow functions |
+| `66` | `Mapeamento de Arrays: ` | map / arrays / arrow functions |
+| `67` | `Redução de Arrays: ` | reduce / arrays / arrow functions |
+| `68` | `Operações Combinadas: ` | filter / map / reduce |
+| `69` | `Iteração: ` | forEach |
+| `70` | `Propriedades e Métodos de Objeto: ` | getters / setters |
 
 ## <p>Quer participar? Venha conosco!!</p>
 
