@@ -92,6 +92,7 @@ JavaScript é uma linguagem de programação amplamente utilizada, conhecida pri
 | `71` | `Propriedades e Métodos de Objeto: ` | defineProperty / defineProperties |
 | `72` | `Propriedades e Métodos de Objeto: ` | prototype / values / entries / assign / GetOwnPropertyDescriptor |
 | `73` | `Propriedades e Métodos de Objeto: ` | prototype |
+| `74` | `Propriedades e Métodos de Objeto: ` | herança |
 
 ## <p>Quer participar? Venha conosco!!</p>
 
