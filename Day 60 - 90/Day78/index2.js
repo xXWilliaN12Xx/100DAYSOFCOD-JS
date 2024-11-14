@@ -9,5 +9,17 @@ class Pessoa {
     }
 }
 
-const pessoa1 = new Pessoa("Willian", 20);
-pessoa1.saudacao(); // 
+class Estudante extends Pessoa {
+    constructor(nome, idade, curso) {
+        super(nome, idade);
+        this.curso = curso;
+    }
+
+    estudar() {
+        console.log(`${this.nome} está estudando ${this.curso}`);
+    }
+}
+
+const estudante1 = new Estudante("Willian", 20, "classes em javascript");
+estudante1.saudacao();
+estudante1.estudar();
